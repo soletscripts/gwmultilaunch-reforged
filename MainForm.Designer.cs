@@ -290,7 +290,7 @@ namespace GWMultiLaunch
             this.MinimumSize = new System.Drawing.Size(375, 192);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Guild Wars Multi-Launch (v0.6)";
+            this.Text = "Guild Wars Multi-Launch (v0.6.9)";
             this.basicControlsToolStrip.ResumeLayout(false);
             this.basicControlsToolStrip.PerformLayout();
             this.expertControlsToolStrip.ResumeLayout(false);

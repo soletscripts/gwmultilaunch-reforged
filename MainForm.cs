@@ -2,6 +2,7 @@
 //The Guild Wars executable is never modified, keeping you inline with the tos.
 //
 //Copyright (C) 2010  IMKey@GuildWarsGuru
+//Fixed for Win11 by Kaos and Solet
 
 //This program is free software: you can redistribute it and/or modify
 //it under the terms of the GNU General Public License as published by
@@ -17,7 +18,7 @@
 //along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 //comment out for 64 bit builds
-#define BUILD32
+//#define BUILD32
 
 using System;
 using System.IO;

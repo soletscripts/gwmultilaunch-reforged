@@ -33,8 +33,9 @@ namespace GWMultiLaunch
         public const string SHORTCUT_PREFIX         = "Guild Wars ML-";
         public const string AUTO_LAUNCH_SHORTCUT    = "Guild Wars ML-X";
         public const string AUTO_LAUNCH_SWITCH      = "-auto";
-        
+
         public const string GW_PROCESS_NAME         = "Gw";
+        ///public const string GW_PROCESS_NAME = "Gw";
         public const string GW_FILENAME             = "Gw.exe";
         public const string GW_DAT                  = "Gw.dat";
         public const string GW_REG_LOCATION         = "SOFTWARE\\ArenaNet\\Guild Wars";
